@@ -1,2 +1,3 @@
 # Jiandan
-I'm tired of the endless search for a good task manager app. So, like any good programmer, I cobbled together my own janky version.
+
+Jiandan (简单）means simple. I wanted to make the most bare bones task manager that I possibly could, tailored for my own needs. My goal is to waste less time making complex Notion tables and Google Calendar entries and just boil down what I need to do for school with a splash of OOP.
